@@ -19,4 +19,5 @@ class InheritedCart extends InheritedWidget {
   bool updateShouldNotify(InheritedCart oldWidget) {
     return true;
   }
+
 }
